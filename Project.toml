@@ -1,0 +1,13 @@
+name = "UnsupervisedLearning"
+uuid = "63ab46e8-c1f2-42b5-9743-3d337ece3214"
+authors = ["tmwatchanan (Watchanan Chantapakul)"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
